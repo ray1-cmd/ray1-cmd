@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ray1-cmd
-- 👀 I’m interested in informatique
-- 🌱 I’m currently learning informatique
-- 💞️ I’m looking to collaborate with users
+-  Hi, I’m @ray1-cmd
+
 
 
 <!---
